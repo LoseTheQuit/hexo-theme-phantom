@@ -31,7 +31,7 @@ show_dates:
 # Comments. Choose one by filling up the information
 comments:
   # Disqus comments
-  disqus_shortname: klugjo
+  disqus_shortname: clxxxii
   # Facebook comments
   facebook:
     appid:
@@ -46,7 +46,7 @@ twitter_url: https://twitter.com/?lang=en
 facebook_url: https://www.facebook.com/
 instagram_url: https://www.instagram.com/
 dribble_url: https://dribbble.com/
-github_url: https://github.com/klugjo/hexo-theme-phantom/commits?author=klugjo
+github_url: https://github.com/LoseTheQuit/hexo-theme-phantom
 googleplus_url: https://plus.google.com/
 behance_url: https://www.behance.net/
 fivehundredpx_url: https://500px.com/
