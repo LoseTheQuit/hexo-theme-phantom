@@ -17,7 +17,7 @@ Phantom is a photography/design portfolio oriented, responsive theme. [Demo here
 - Social Accounts configuration
 - Pagination
 
-## Not Supported
+## Not Supported - yet
 
 - Post Categories will not be displayed
 - Posts and Pages Dates will not be displayed
@@ -44,7 +44,7 @@ $ npm install --save hexo-renderer-scss
 Install the theme by using:
 
 ```
-$ git clone https://github.com/klugjo/hexo-theme-phantom themes/phantom
+$ git clone https://github.com/LoseTheQuit/hexo-theme-phantom themes/phantom
 ```
 
 Then update your blog's main `_config.yml` to set the theme to `phantom`:
@@ -179,16 +179,16 @@ Setup the links to your social pages in the theme's `_config.yml`. Links are in 
 
 ```
 # Social Accounts
-twitter_url: 
+twitter_url:
 facebook_url: https://www.facebook.com/
-instagram_url: 
+instagram_url:
 dribble_url: https://dribbble.com/pixelhint
-github_url: 
+github_url:
 googleplus_url: https://plus.google.com/+Pixelhint/posts
 behance_url: https://www.behance.net/
-fivehundredpx_url: 
-email_url: 
-rss_url: 
+fivehundredpx_url:
+email_url:
+rss_url:
 ```
 
 ## Post Custom Configuration
